@@ -26,12 +26,5 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
- 📊 GitHub İstatistiklerim
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulentercan01&show_icons=true&theme=radical" alt="Bülent Ercan GitHub Stats" />
-</div>
-
-
 ### 📫 İletişim
 <a href="https://www.linkedin.com/in/bulentercan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
